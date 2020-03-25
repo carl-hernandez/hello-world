@@ -1,4 +1,4 @@
 # hello-world
 tutorial repository
 a bit about yourself
-This is mt tutorial
+This is my tutorial
